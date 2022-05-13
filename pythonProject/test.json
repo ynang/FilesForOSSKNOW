@@ -1,0 +1,52 @@
+[
+    {
+        "owner": "P-H-C",
+        "repo": "phc-winner-argon2",
+        "url": "https://github.com/P-H-C/phc-winner-argon2.git"
+    },
+    {
+        "owner": "hercules-team",
+        "repo": "augeas",
+        "url": "https://github.com/hercules-team/augeas.git"
+    },
+    {
+        "owner": "Gandi",
+        "repo": "bridge-utils",
+        "url": "https://github.com/Gandi/bridge-utils.git"
+    },
+    {
+        "owner": "google",
+        "repo": "brotli",
+        "url": "https://github.com/google/brotli.git"
+    },
+    {
+        "owner": "libarchive",
+        "repo": "bzip2",
+        "url": "https://github.com/libarchive/bzip2.git"
+    },
+    {
+        "owner": "coreutils",
+        "repo": "coreutils",
+        "url": "https://github.com/coreutils/coreutils.git"
+    },
+    {
+        "owner": "Distrotech",
+        "repo": "cpio",
+        "url": "https://github.com/Distrotech/cpio.git"
+    },
+    {
+        "owner": "cracklib",
+        "repo": "cracklib",
+        "url": "https://github.com/cracklib/cracklib.git"
+    },
+    {
+        "owner": "cronie-crond",
+        "repo": "cronie",
+        "url": "https://github.com/cronie-crond/cronie.git"
+    },
+    {
+        "owner": "cyrusimap",
+        "repo": "cyrus-sasl",
+        "url": "https://github.com/cyrusimap/cyrus-sasl.git"
+    }
+]

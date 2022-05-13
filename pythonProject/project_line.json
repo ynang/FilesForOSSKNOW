@@ -1,0 +1,271 @@
+{"project_line_json":[
+{
+"project_line": "终端云服务",
+"project_list":[
+{"owner": "FFmpeg", "repo": "FFmpeg"},
+{"owner": "chromium", "repo": "chromium"},
+{"owner": "o3de", "repo": "o3de"}
+]
+},
+{
+"project_line": "媒体院",
+"project_list":[
+{"owner": "librosa", "repo": "librosa"},
+{"owner": "pytorch", "repo": "fairseq"},
+{"owner": "SensorsINI", "repo": "v2e"},
+{"owner": "ray-project", "repo": "ray"},
+{"owner": "GuoLusjtu", "repo": "DVC"},
+{"owner": "RenYang-home", "repo": "OpenDVC"},
+{"owner": "RenYang-home", "repo": "HLVC"},
+{"owner": "RenYang-home", "repo": "RLVC"},
+{"owner": "RenYang-home", "repo": "PLVC"},
+{"owner": "AdaptiveVC", "repo": "SRVC"},
+{"owner": "Orange-OpenSource", "repo": "AIVC"},
+{"owner": "xinntao", "repo": "BasicSR"},
+{"owner": "caojiezhang", "repo": "VSR-Transformer"},
+{"owner": "InterDigitalInc", "repo": "CompressAI"},
+{"owner": "ZhengxueCheng", "repo": "Learned-Image-Compression-with-GMM-and-Attention"},
+{"owner": "hific", "repo": "hific.github.io"},
+{"owner": "Cyan4973", "repo": "FiniteStateEntropy"},
+{"owner": "rygorous", "repo": "ryg_rans"},
+{"owner": "Netflix", "repo": "vmaf"},
+{"owner": "opencv", "repo": "opencv"},
+{"owner": "opencv", "repo": "opencv_contrib"},
+{"owner": "opencv", "repo": "opencv-python"},
+{"owner": "KhronosGroup", "repo": "OpenGL-Registry"},
+{"owner": "python", "repo": "cpython"},
+{"owner": "python", "repo": "mypy"},
+{"owner": "python", "repo": "pythondotorg"},
+{"owner": "python", "repo": "peps"},
+{"owner": "python", "repo": "typeshed"},
+{"owner": "python", "repo": "devguide"},
+{"owner": "FreeCAD", "repo": "FreeCAD"},
+{"owner": "tensorflow", "repo": "tensorflow"},
+{"owner": "pytorch", "repo": "pytorch"},
+{"owner": "InsightSoftwareConsortium", "repo": "ITK"},
+{"owner": "SimpleITK", "repo": "SimpleITK"},
+{"owner": "python-pillow", "repo": "Pillow"},
+{"owner": "davisking", "repo": "dlib"},
+{"owner": "Anaconda-Platform", "repo": "anaconda-project"},
+{"owner": "pure-data", "repo": "pure-data"},
+{"owner": "litespeedtech", "repo": "lsquic"}
+]
+},
+{
+"project_line": "可信院-软件工程",
+"project_list":[
+{"owner": "scanoss", "repo": "scanner.c"},
+{"owner": "scanoss", "repo": "engine"},
+{"owner": "scanoss", "repo": "scanner.py"},
+{"owner": "scanoss", "repo": "quickscan"},
+{"owner": "scanoss", "repo": "audit-workbench"},
+{"owner": "scanoss", "repo": "scanoss.py"}
+]
+},
+{
+"project_line": "可信院-CSPL",
+"project_list":[
+{"owner": "kernel", "repo": "andrii_bpf-next"},
+{"owner": "kernel", "repo": "ast_bpf"},
+{"owner": "kernel", "repo": "bpf_bpf-next"},
+{"owner": "kernel", "repo": "bpf_bpf"},
+{"owner": "kernel", "repo": "dborkman_bpf"}
+]
+},
+{
+"project_line": "可信院-谢尔德",
+"project_list":[
+{"owner": "hyperledger", "repo": "fabric"},
+{"owner": "hyperledger", "repo": "hyperledger"},
+{"owner": "hyperledger", "repo": "fabric-samples"},
+{"owner": "hyperledger", "repo": "sawtooth-core"},
+{"owner": "hyperledger", "repo": "blockchain-explorer"},
+{"owner": "hyperledger", "repo": "fabric-sdk-java"},
+{"owner": "hyperledger", "repo": "burrow"},
+{"owner": "hyperledger", "repo": "fabric-sdk-go"},
+{"owner": "hyperledger", "repo": "cello"},
+{"owner": "hyperledger", "repo": "fabric-sdk-node"},
+{"owner": "hyperledger", "repo": "besu"},
+{"owner": "hyperledger", "repo": "indy-sdk"},
+{"owner": "hyperledger", "repo": "indy-node"}
+]
+},
+{
+"project_line": "诺亚方舟实验室",
+"project_list":[
+{"owner": "python", "repo": "cpython"},
+{"owner": "python", "repo": "mypy"},
+{"owner": "python", "repo": "pythondotorg"},
+{"owner": "python", "repo": "peps"},
+{"owner": "python", "repo": "typeshed"},
+{"owner": "python", "repo": "devguide"},
+{"owner": "tensorflow", "repo": "tensorflow"},
+{"owner": "Anaconda-Platform", "repo": "anaconda-project"},
+{"owner": "pytorch", "repo": "pytorch"},
+{"owner": "open-mmlab", "repo": "mmdetection"},
+{"owner": "open-mmlab", "repo": "mmcv"},
+{"owner": "IntelLabs", "repo": "distiller"},
+{"owner": "rwightman", "repo": "pytorch-image-models"},
+{"owner": "PaddlePaddle", "repo": "PaddleOCR"},
+{"owner": "open-mmlab", "repo": "mmsegmentation"},
+{"owner": "onnx", "repo": "onnx"},
+{"owner": "NVIDIA-Merlin", "repo": "Merlin"},
+{"owner": "alibaba", "repo": "DeepRec"},
+{"owner": "numpy", "repo": "numpy"},
+{"owner": "zeromq", "repo": "pyzmq"},
+{"owner": "opencv", "repo": "opencv-python"},
+{"owner": "python-pillow", "repo": "Pillow"},
+{"owner": "rygorous", "repo": "ryg_rans"},
+{"owner": "Cyan4973", "repo": "FiniteStateEntropy"},
+{"owner": "FFmpeg", "repo": "FFmpeg"},
+{"owner": "docker", "repo": "compose"},
+{"owner": "docker", "repo": "roadmap"},
+{"owner": "docker", "repo": "awesome-compose"},
+{"owner": "docker", "repo": "build-push-action"},
+{"owner": "docker", "repo": "compose-cli"},
+{"owner": "docker", "repo": "node-sdk"},
+{"owner": "google", "repo": "jax"},
+{"owner": "openssl", "repo": "openssl"}
+]
+},
+{
+"project_line": "中央研究院",
+"project_list":[
+{"owner": "numpy", "repo": "numpy"},
+{"owner": "redis", "repo": "redis"},
+{"owner": "pytorch", "repo": "pytorch"},
+{"owner": "python", "repo": "cpython"},
+{"owner": "python", "repo": "mypy"},
+{"owner": "python", "repo": "pythondotorg"},
+{"owner": "python", "repo": "peps"},
+{"owner": "python", "repo": "typeshed"},
+{"owner": "python", "repo": "devguide"}
+]
+},
+{
+"project_line": "中央软件院-编译器与编程语言实验室",
+"project_list":[
+{"owner": "facebookincubator", "repo": "BOLT"},
+{"owner": "oracle", "repo": "graal"},
+{"owner": "JuliaLang", "repo": "julia"},
+{"owner": "jupyter", "repo": "notebook"},
+{"owner": "jupyter", "repo": "docker-stacks"},
+{"owner": "jupyter", "repo": "jupyter_client"},
+{"owner": "jupyter", "repo": "nbformat"},
+{"owner": "jupyter", "repo": "jupyterhub.io"},
+{"owner": "llvm", "repo": "llvm-project"},
+{"owner": "intel", "repo": "llvm"},
+{"owner": "eclipse-openj9", "repo": "openj9"},
+{"owner": "sveltejs", "repo": "svelte"},
+{"owner": "taichi-dev", "repo": "taichi"},
+{"owner": "taichi-dev", "repo": "taichi_elements"},
+{"owner": "taichi-dev", "repo": "games201"},
+{"owner": "dcloudio", "repo": "uni-app"},
+{"owner": "wasmerio", "repo": "wasmer"},
+{"owner": "rust-lang", "repo": "rust"},
+{"owner": "rust-lang", "repo": "cargo"},
+{"owner": "rust-lang", "repo": "rfcs"},
+{"owner": "openjdk", "repo": "jdk"}
+]
+},
+{
+"project_line": "中央软件院-分布式与并行软件实验室",
+"project_list":[
+{"owner": "dapr", "repo": "dapr"},
+{"owner": "microsoft", "repo": "DeepSpeed"},
+{"owner": "google", "repo": "jax"},
+{"owner": "PaddlePaddle", "repo": "Paddle"},
+{"owner": "pytorch", "repo": "pytorch"},
+{"owner": "ray-project", "repo": "ray"},
+{"owner": "tensorflow", "repo": "tensorflow"}
+]
+},
+{
+"project_line": "中央软件院-分布式与并行软件实验室-计算机网络与协议实验室",
+"project_list":[
+{"owner": "DPDK", "repo": "dpdk"},
+{"owner": "envoyproxy", "repo": "envoy"},
+{"owner": "grpc", "repo": "grpc"},
+{"owner": "nginx", "repo": "nginx"}
+]
+},
+{
+"project_line": "中央软件院-分布式与并行软件实验室-黎曼实验室",
+"project_list":[
+{"owner": "CGAL", "repo": "cgal"},
+{"owner": "mapbox", "repo": "mapbox-gl-js"}
+]
+},
+{
+"project_line": "中央软件院-分布式与并行软件实验室-泊松实验室",
+"project_list":[
+{"owner": "facebookresearch", "repo": "faiss"},
+{"owner": "jina-ai", "repo": "jina"},
+{"owner": "ZJU-OpenKS", "repo": "OpenKS"}
+]
+},
+{
+"project_line": "中央软件院-高斯部",
+"project_list":[
+{"owner": "ClickHouse", "repo": "ClickHouse"},
+{"owner": "cockroachdb", "repo": "cockroach"},
+{"owner": "delta-io", "repo": "delta"},
+{"owner": "greenplum-db", "repo": "gpdb"},
+{"owner": "apache", "repo": "hudi"},
+{"owner": "apache", "repo": "iceberg"},
+{"owner": "google", "repo": "leveldb"},
+{"owner": "MariaDB", "repo": "server"},
+{"owner": "MariaDB", "repo": "mariadb-docker"},
+{"owner": "MariaDB", "repo": "galera"},
+{"owner": "MariaDB", "repo": "mariadb.org-tools"},
+{"owner": "MariaDB", "repo": "randgen"},
+{"owner": "MariaDB", "repo": "webscalesql-5.6"},
+{"owner": "mongodb", "repo": "mongo"},
+{"owner": "mongodb", "repo": "node-mongodb-native"},
+{"owner": "mongodb", "repo": "mongo-go-driver"},
+{"owner": "mongodb", "repo": "mongoid"},
+{"owner": "mongodb", "repo": "mongo-python-driver"},
+{"owner": "mongodb", "repo": "mongo-csharp-driver"},
+{"owner": "mysql", "repo": "mysql-server"},
+{"owner": "neo4j", "repo": "neo4j"},
+{"owner": "planetscale", "repo": "beam"},
+{"owner": "planetscale", "repo": "docs"},
+{"owner": "planetscale", "repo": "cli"},
+{"owner": "planetscale", "repo": "planetscale-go"},
+{"owner": "planetscale", "repo": "vitess"},
+{"owner": "postgres", "repo": "postgres"},
+{"owner": "questdb", "repo": "questdb"},
+{"owner": "redis", "repo": "redis"},
+{"owner": "facebook", "repo": "rocksdb"},
+{"owner": "memsql", "repo": "singlestore-spark-connector"},
+{"owner": "memsql", "repo": "dbbench"},
+{"owner": "memsql", "repo": "lockfree-bench"},
+{"owner": "memsql", "repo": "workload-simulator"},
+{"owner": "memsql", "repo": "memsql-docker-quickstart"},
+{"owner": "memsql", "repo": "memsql-python"},
+{"owner": "yugabyte", "repo": "yugabyte-db"}
+]
+},
+{
+"project_line": "中央软件院-欧拉部",
+"project_list":[
+{"owner": "chromium", "repo": "chromium"},
+{"owner": "curl", "repo": "curl"},
+{"owner": "docker", "repo": "compose"},
+{"owner": "docker", "repo": "roadmap"},
+{"owner": "docker", "repo": "awesome-compose"},
+{"owner": "docker", "repo": "build-push-action"},
+{"owner": "docker", "repo": "compose-cli"},
+{"owner": "docker", "repo": "node-sdk"},
+{"owner": "mozilla", "repo": "gecko-dev"},
+{"owner": "torvalds", "repo": "linux"},
+{"owner": "lxc", "repo": "lxc"},
+{"owner": "openssl", "repo": "openssl"},
+{"owner": "org", "repo": "qemu"},
+{"owner": "google", "repo": "re2"},
+{"owner": "SELinuxProject", "repo": "selinux"},
+{"owner": "servo", "repo": "servo"},
+{"owner": "systemd", "repo": "systemd"}
+]
+}
+  ]}

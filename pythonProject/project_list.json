@@ -1,0 +1,1094 @@
+{
+    "终端云服务": {
+        "FFmpeg": [
+            {
+                "owner": "FFmpeg",
+                "repo": "FFmpeg"
+            }
+        ],
+        "Chromium": [
+            {
+                "owner": "chromium",
+                "repo": "chromium"
+            }
+        ],
+        "O3DE": [
+            {
+                "owner": "o3de",
+                "repo": "o3de"
+            }
+        ]
+    },
+    "媒体院": {
+        "librosa": [
+            {
+                "owner": "librosa",
+                "repo": "librosa"
+            }
+        ],
+        "fairseq": [
+            {
+                "owner": "pytorch",
+                "repo": "fairseq"
+            }
+        ],
+        "v2e": [
+            {
+                "owner": "SensorsINI",
+                "repo": "v2e"
+            }
+        ],
+        "ray": [
+            {
+                "owner": "ray-project",
+                "repo": "ray"
+            }
+        ],
+        "OpenDVC": [
+            {
+                "owner": "GuoLusjtu",
+                "repo": "DVC"
+            },
+            {
+                "owner": "RenYang-home",
+                "repo": "OpenDVC"
+            }
+        ],
+        "HLVC": [
+            {
+                "owner": "RenYang-home",
+                "repo": "HLVC"
+            }
+        ],
+        "RLVC": [
+            {
+                "owner": "RenYang-home",
+                "repo": "RLVC"
+            }
+        ],
+        "PLVC": [
+            {
+                "owner": "RenYang-home",
+                "repo": "PLVC"
+            }
+        ],
+        "SRVC": [
+            {
+                "owner": "AdaptiveVC",
+                "repo": "SRVC"
+            }
+        ],
+        "AIVC": [
+            {
+                "owner": "Orange-OpenSource",
+                "repo": "AIVC"
+            }
+        ],
+        "BasicSR": [
+            {
+                "owner": "xinntao",
+                "repo": "BasicSR"
+            }
+        ],
+        "VSR-Transformer": [
+            {
+                "owner": "caojiezhang",
+                "repo": "VSR-Transformer"
+            }
+        ],
+        "CompressAI": [
+            {
+                "owner": "InterDigitalInc",
+                "repo": "CompressAI"
+            }
+        ],
+        "LIC-GMM-Attention": [
+            {
+                "owner": "ZhengxueCheng",
+                "repo": "Learned-Image-Compression-with-GMM-and-Attention"
+            }
+        ],
+        "HiFiC": [
+            {
+                "owner": "hific",
+                "repo": "hific.github.io"
+            }
+        ],
+        "FSE": [
+            {
+                "owner": "Cyan4973",
+                "repo": "FiniteStateEntropy"
+            }
+        ],
+        "rANS": [
+            {
+                "owner": "rygorous",
+                "repo": "ryg_rans"
+            }
+        ],
+        "vmaf": [
+            {
+                "owner": "Netflix",
+                "repo": "vmaf"
+            }
+        ],
+        "OpenCV": [
+            {
+                "owner": "opencv",
+                "repo": "opencv"
+            }
+        ],
+        "opencv_contrib": [
+            {
+                "owner": "opencv",
+                "repo": "opencv_contrib"
+            }
+        ],
+        "opencv-python": [
+            {
+                "owner": "opencv",
+                "repo": "opencv-python"
+            }
+        ],
+        "Khronos Group - OpenGL ES": [
+            {
+                "owner": "KhronosGroup",
+                "repo": "OpenGL-Registry"
+            }
+        ],
+        "python": [
+            {
+                "owner": "python",
+                "repo": "cpython"
+            },
+            {
+                "owner": "python",
+                "repo": "mypy"
+            },
+            {
+                "owner": "python",
+                "repo": "pythondotorg"
+            },
+            {
+                "owner": "python",
+                "repo": "peps"
+            },
+            {
+                "owner": "python",
+                "repo": "typeshed"
+            },
+            {
+                "owner": "python",
+                "repo": "devguide"
+            }
+        ],
+        "FreeCAD": [
+            {
+                "owner": "FreeCAD",
+                "repo": "FreeCAD"
+            }
+        ],
+        "tensorflow": [
+            {
+                "owner": "tensorflow",
+                "repo": "tensorflow"
+            }
+        ],
+        "PyTorch": [
+            {
+                "owner": "pytorch",
+                "repo": "pytorch"
+            }
+        ],
+        "ITK": [
+            {
+                "owner": "InsightSoftwareConsortium",
+                "repo": "ITK"
+            }
+        ],
+        "simpleITK": [
+            {
+                "owner": "SimpleITK",
+                "repo": "SimpleITK"
+            }
+        ],
+        "pillow": [
+            {
+                "owner": "python-pillow",
+                "repo": "Pillow"
+            }
+        ],
+        "dlib": [
+            {
+                "owner": "davisking",
+                "repo": "dlib"
+            }
+        ],
+        "anaconda": [
+            {
+                "owner": "Anaconda-Platform",
+                "repo": "anaconda-project"
+            }
+        ],
+        "PureData": [
+            {
+                "owner": "pure-data",
+                "repo": "pure-data"
+            }
+        ],
+        "ffmpeg": [
+            {
+                "owner": "FFmpeg",
+                "repo": "FFmpeg"
+            }
+        ],
+        "LSQUIC": [
+            {
+                "owner": "litespeedtech",
+                "repo": "lsquic"
+            }
+        ]
+    },
+    "可信院-软件工程": {
+        "scanoss": [
+            {
+                "owner": "scanoss",
+                "repo": "scanner.c"
+            },
+            {
+                "owner": "scanoss",
+                "repo": "engine"
+            },
+            {
+                "owner": "scanoss",
+                "repo": "scanner.py"
+            },
+            {
+                "owner": "scanoss",
+                "repo": "quickscan"
+            },
+            {
+                "owner": "scanoss",
+                "repo": "audit-workbench"
+            },
+            {
+                "owner": "scanoss",
+                "repo": "scanoss.py"
+            }
+        ]
+    },
+    "可信院-CSPL": {
+        "eBPF": [
+            {
+                "owner": "kernel",
+                "repo": "andrii_bpf-next"
+            },
+            {
+                "owner": "kernel",
+                "repo": "ast_bpf"
+            },
+            {
+                "owner": "kernel",
+                "repo": "bpf_bpf-next"
+            },
+            {
+                "owner": "kernel",
+                "repo": "bpf_bpf"
+            },
+            {
+                "owner": "kernel",
+                "repo": "dborkman_bpf"
+            }
+        ]
+    },
+    "可信院-谢尔德": {
+        "HyperLedager": [
+            {
+                "owner": "hyperledger",
+                "repo": "fabric"
+            },
+            {
+                "owner": "hyperledger",
+                "repo": "hyperledger"
+            },
+            {
+                "owner": "hyperledger",
+                "repo": "fabric-samples"
+            },
+            {
+                "owner": "hyperledger",
+                "repo": "sawtooth-core"
+            },
+            {
+                "owner": "hyperledger",
+                "repo": "blockchain-explorer"
+            },
+            {
+                "owner": "hyperledger",
+                "repo": "fabric-sdk-java"
+            },
+            {
+                "owner": "hyperledger",
+                "repo": "burrow"
+            },
+            {
+                "owner": "hyperledger",
+                "repo": "fabric-sdk-go"
+            },
+            {
+                "owner": "hyperledger",
+                "repo": "cello"
+            },
+            {
+                "owner": "hyperledger",
+                "repo": "fabric-sdk-node"
+            },
+            {
+                "owner": "hyperledger",
+                "repo": "besu"
+            },
+            {
+                "owner": "hyperledger",
+                "repo": "indy-sdk"
+            },
+            {
+                "owner": "hyperledger",
+                "repo": "indy-node"
+            }
+        ]
+    },
+    "诺亚方舟实验室": {
+        "python": [
+            {
+                "owner": "python",
+                "repo": "cpython"
+            },
+            {
+                "owner": "python",
+                "repo": "mypy"
+            },
+            {
+                "owner": "python",
+                "repo": "pythondotorg"
+            },
+            {
+                "owner": "python",
+                "repo": "peps"
+            },
+            {
+                "owner": "python",
+                "repo": "typeshed"
+            },
+            {
+                "owner": "python",
+                "repo": "devguide"
+            }
+        ],
+        "tensorflow": [
+            {
+                "owner": "tensorflow",
+                "repo": "tensorflow"
+            }
+        ],
+        "anaconda": [
+            {
+                "owner": "Anaconda-Platform",
+                "repo": "anaconda-project"
+            }
+        ],
+        "PyTorch": [
+            {
+                "owner": "pytorch",
+                "repo": "pytorch"
+            }
+        ],
+        "mmdetection": [
+            {
+                "owner": "open-mmlab",
+                "repo": "mmdetection"
+            }
+        ],
+        "mmcv": [
+            {
+                "owner": "open-mmlab",
+                "repo": "mmcv"
+            }
+        ],
+        "distiller": [
+            {
+                "owner": "IntelLabs",
+                "repo": "distiller"
+            }
+        ],
+        "timm": [
+            {
+                "owner": "rwightman",
+                "repo": "pytorch-image-models"
+            }
+        ],
+        "PaddleOCR": [
+            {
+                "owner": "PaddlePaddle",
+                "repo": "PaddleOCR"
+            }
+        ],
+        "mmsegmentation": [
+            {
+                "owner": "open-mmlab",
+                "repo": "mmsegmentation"
+            }
+        ],
+        "onnx": [
+            {
+                "owner": "onnx",
+                "repo": "onnx"
+            }
+        ],
+        "HugeCTR": [
+            {
+                "owner": "NVIDIA-Merlin",
+                "repo": "Merlin"
+            }
+        ],
+        "DeepRec": [
+            {
+                "owner": "alibaba",
+                "repo": "DeepRec"
+            }
+        ],
+        "numpy": [
+            {
+                "owner": "numpy",
+                "repo": "numpy"
+            }
+        ],
+        "zmq": [
+            {
+                "owner": "zeromq",
+                "repo": "pyzmq"
+            }
+        ],
+        "opencv-python": [
+            {
+                "owner": "opencv",
+                "repo": "opencv-python"
+            }
+        ],
+        "pillow": [
+            {
+                "owner": "python-pillow",
+                "repo": "Pillow"
+            }
+        ],
+        "rANS": [
+            {
+                "owner": "rygorous",
+                "repo": "ryg_rans"
+            }
+        ],
+        "FSE": [
+            {
+                "owner": "Cyan4973",
+                "repo": "FiniteStateEntropy"
+            }
+        ],
+        "ffmpeg": [
+            {
+                "owner": "FFmpeg",
+                "repo": "FFmpeg"
+            }
+        ],
+        "docker": [
+            {
+                "owner": "docker",
+                "repo": "compose"
+            },
+            {
+                "owner": "docker",
+                "repo": "roadmap"
+            },
+            {
+                "owner": "docker",
+                "repo": "awesome-compose"
+            },
+            {
+                "owner": "docker",
+                "repo": "build-push-action"
+            },
+            {
+                "owner": "docker",
+                "repo": "compose-cli"
+            },
+            {
+                "owner": "docker",
+                "repo": "node-sdk"
+            }
+        ],
+        "JAX": [
+            {
+                "owner": "google",
+                "repo": "jax"
+            }
+        ],
+        "openssl": [
+            {
+                "owner": "openssl",
+                "repo": "openssl"
+            }
+        ]
+    },
+    "中央研究院": {
+        "numpy": [
+            {
+                "owner": "numpy",
+                "repo": "numpy"
+            }
+        ],
+        "redis": [
+            {
+                "owner": "redis",
+                "repo": "redis"
+            }
+        ],
+        "pytorch": [
+            {
+                "owner": "pytorch",
+                "repo": "pytorch"
+            }
+        ],
+        "python": [
+            {
+                "owner": "python",
+                "repo": "cpython"
+            },
+            {
+                "owner": "python",
+                "repo": "mypy"
+            },
+            {
+                "owner": "python",
+                "repo": "pythondotorg"
+            },
+            {
+                "owner": "python",
+                "repo": "peps"
+            },
+            {
+                "owner": "python",
+                "repo": "typeshed"
+            },
+            {
+                "owner": "python",
+                "repo": "devguide"
+            }
+        ]
+    },
+    "中央软件院-编译器与编程语言实验室": {
+        "BOLT": [
+            {
+                "owner": "facebookincubator",
+                "repo": "BOLT"
+            }
+        ],
+        "GraalVM": [
+            {
+                "owner": "oracle",
+                "repo": "graal"
+            }
+        ],
+        "Julia": [
+            {
+                "owner": "JuliaLang",
+                "repo": "julia"
+            }
+        ],
+        "Jupyter": [
+            {
+                "owner": "jupyter",
+                "repo": "notebook"
+            },
+            {
+                "owner": "jupyter",
+                "repo": "docker-stacks"
+            },
+            {
+                "owner": "jupyter",
+                "repo": "jupyter_client"
+            },
+            {
+                "owner": "jupyter",
+                "repo": "nbformat"
+            },
+            {
+                "owner": "jupyter",
+                "repo": "jupyter.github.io"
+            }
+        ],
+        "MLIR": [
+            {
+                "owner": "llvm",
+                "repo": "llvm-project"
+            }
+        ],
+        "OneAPI": [
+            {
+                "owner": "intel",
+                "repo": "llvm"
+            }
+        ],
+        "OpenJ9": [
+            {
+                "owner": "eclipse-openj9",
+                "repo": "openj9"
+            }
+        ],
+        "Svelte": [
+            {
+                "owner": "sveltejs",
+                "repo": "svelte"
+            }
+        ],
+        "Taichi": [
+            {
+                "owner": "taichi-dev",
+                "repo": "taichi"
+            },
+            {
+                "owner": "taichi-dev",
+                "repo": "taichi_elements"
+            },
+            {
+                "owner": "taichi-dev",
+                "repo": "games201"
+            }
+        ],
+        "Uni-app": [
+            {
+                "owner": "dcloudio",
+                "repo": "uni-app"
+            }
+        ],
+        "Wasmer": [
+            {
+                "owner": "wasmerio",
+                "repo": "wasmer"
+            }
+        ],
+        "LLVM": [
+            {
+                "owner": "llvm",
+                "repo": "llvm-project"
+            }
+        ],
+        "Rust": [
+            {
+                "owner": "rust-lang",
+                "repo": "rust"
+            },
+            {
+                "owner": "rust-lang",
+                "repo": "cargo"
+            },
+            {
+                "owner": "rust-lang",
+                "repo": "rfcs"
+            }
+        ],
+        "OpenJDK": [
+            {
+                "owner": "openjdk",
+                "repo": "jdk"
+            }
+        ]
+    },
+    "中央软件院-分布式与并行软件实验室": {
+        "Dapr": [
+            {
+                "owner": "dapr",
+                "repo": "dapr"
+            }
+        ],
+        "DeepSpeed": [
+            {
+                "owner": "microsoft",
+                "repo": "DeepSpeed"
+            }
+        ],
+        "JAX": [
+            {
+                "owner": "google",
+                "repo": "jax"
+            }
+        ],
+        "PaddlePaddle": [
+            {
+                "owner": "PaddlePaddle",
+                "repo": "Paddle"
+            }
+        ],
+        "PyTorch": [
+            {
+                "owner": "pytorch",
+                "repo": "pytorch"
+            }
+        ],
+        "Ray": [
+            {
+                "owner": "ray-project",
+                "repo": "ray"
+            }
+        ],
+        "TensorFlow": [
+            {
+                "owner": "tensorflow",
+                "repo": "tensorflow"
+            }
+        ]
+    },
+    "中央软件院-分布式与并行软件实验室-计算机网络与协议实验室": {
+        "Data Plane Development Kit (DPDK)": [
+            {
+                "owner": "DPDK",
+                "repo": "dpdk"
+            }
+        ],
+        "envoy": [
+            {
+                "owner": "envoyproxy",
+                "repo": "envoy"
+            }
+        ],
+        "grpc": [
+            {
+                "owner": "grpc",
+                "repo": "grpc"
+            }
+        ],
+        "nginx": [
+            {
+                "owner": "nginx",
+                "repo": "nginx"
+            }
+        ]
+    },
+    "中央软件院-分布式与并行软件实验室-黎曼实验室": {
+        "cgal": [
+            {
+                "owner": "CGAL",
+                "repo": "cgal"
+            }
+        ],
+        "mapbox-gl-js": [
+            {
+                "owner": "mapbox",
+                "repo": "mapbox-gl-js"
+            }
+        ]
+    },
+    "中央软件院-分布式与并行软件实验室-泊松实验室": {
+        "Faiss": [
+            {
+                "owner": "facebookresearch",
+                "repo": "faiss"
+            }
+        ],
+        "Jina": [
+            {
+                "owner": "jina-ai",
+                "repo": "jina"
+            }
+        ],
+        "OpenKS": [
+            {
+                "owner": "ZJU-OpenKS",
+                "repo": "OpenKS"
+            }
+        ]
+    },
+    "中央软件院-高斯部": {
+        "Clickhouse": [
+            {
+                "owner": "ClickHouse",
+                "repo": "ClickHouse"
+            }
+        ],
+        "CockroachDB": [
+            {
+                "owner": "cockroachdb",
+                "repo": "cockroach"
+            }
+        ],
+        "Delta Lake": [
+            {
+                "owner": "delta-io",
+                "repo": "delta"
+            }
+        ],
+        "Greenplum": [
+            {
+                "owner": "greenplum-db",
+                "repo": "gpdb"
+            }
+        ],
+        "Hudi": [
+            {
+                "owner": "apache",
+                "repo": "hudi"
+            }
+        ],
+        "Iceberg": [
+            {
+                "owner": "apache",
+                "repo": "iceberg"
+            }
+        ],
+        "LevelDB": [
+            {
+                "owner": "google",
+                "repo": "leveldb"
+            }
+        ],
+        "MariaDB": [
+            {
+                "owner": "MariaDB",
+                "repo": "server"
+            },
+            {
+                "owner": "MariaDB",
+                "repo": "mariadb-docker"
+            },
+            {
+                "owner": "MariaDB",
+                "repo": "galera"
+            },
+            {
+                "owner": "MariaDB",
+                "repo": "mariadb.org-tools"
+            },
+            {
+                "owner": "MariaDB",
+                "repo": "randgen"
+            },
+            {
+                "owner": "MariaDB",
+                "repo": "webscalesql-5.6"
+            }
+        ],
+        "MongoDB": [
+            {
+                "owner": "mongodb",
+                "repo": "mongo"
+            },
+            {
+                "owner": "mongodb",
+                "repo": "node-mongodb-native"
+            },
+            {
+                "owner": "mongodb",
+                "repo": "mongo-go-driver"
+            },
+            {
+                "owner": "mongodb",
+                "repo": "mongoid"
+            },
+            {
+                "owner": "mongodb",
+                "repo": "mongo-python-driver"
+            },
+            {
+                "owner": "mongodb",
+                "repo": "mongo-csharp-driver"
+            }
+        ],
+        "MySQL": [
+            {
+                "owner": "mysql",
+                "repo": "mysql-server"
+            }
+        ],
+        "Neo4j": [
+            {
+                "owner": "neo4j",
+                "repo": "neo4j"
+            }
+        ],
+        "PlanetScale": [
+            {
+                "owner": "planetscale",
+                "repo": "beam"
+            },
+            {
+                "owner": "planetscale",
+                "repo": "docs"
+            },
+            {
+                "owner": "planetscale",
+                "repo": "cli"
+            },
+            {
+                "owner": "planetscale",
+                "repo": "planetscale-go"
+            },
+            {
+                "owner": "planetscale",
+                "repo": "vitess"
+            }
+        ],
+        "PostgreSQL": [
+            {
+                "owner": "postgres",
+                "repo": "postgres"
+            }
+        ],
+        "QuestDB": [
+            {
+                "owner": "questdb",
+                "repo": "questdb"
+            }
+        ],
+        "Redis": [
+            {
+                "owner": "redis",
+                "repo": "redis"
+            }
+        ],
+        "RocksDB": [
+            {
+                "owner": "facebook",
+                "repo": "rocksdb"
+            }
+        ],
+        "SingleStore": [
+            {
+                "owner": "memsql",
+                "repo": "singlestore-spark-connector"
+            },
+            {
+                "owner": "memsql",
+                "repo": "dbbench"
+            },
+            {
+                "owner": "memsql",
+                "repo": "lockfree-bench"
+            },
+            {
+                "owner": "memsql",
+                "repo": "workload-simulator"
+            },
+            {
+                "owner": "memsql",
+                "repo": "memsql-docker-quickstart"
+            },
+            {
+                "owner": "memsql",
+                "repo": "memsql-python"
+            }
+        ],
+        "Yugabyte": [
+            {
+                "owner": "yugabyte",
+                "repo": "yugabyte-db"
+            }
+        ]
+    },
+    "中央软件院-欧拉部": {
+        "Chromium": [
+            {
+                "owner": "chromium",
+                "repo": "chromium"
+            }
+        ],
+        "CURL": [
+            {
+                "owner": "curl",
+                "repo": "curl"
+            }
+        ],
+        "docker": [
+            {
+                "owner": "docker",
+                "repo": "compose"
+            },
+            {
+                "owner": "docker",
+                "repo": "roadmap"
+            },
+            {
+                "owner": "docker",
+                "repo": "awesome-compose"
+            },
+            {
+                "owner": "docker",
+                "repo": "build-push-action"
+            },
+            {
+                "owner": "docker",
+                "repo": "compose-cli"
+            },
+            {
+                "owner": "docker",
+                "repo": "node-sdk"
+            }
+        ],
+        "Gecko": [
+            {
+                "owner": "mozilla",
+                "repo": "gecko-dev"
+            }
+        ],
+        "libarchive": [
+            {
+                "owner": "torvalds",
+                "repo": "linux"
+            }
+        ],
+        "Linux kernel": [
+            {
+                "owner": "torvalds",
+                "repo": "linux"
+            }
+        ],
+        "lxc": [
+            {
+                "owner": "lxc",
+                "repo": "lxc"
+            }
+        ],
+        "openssl": [
+            {
+                "owner": "openssl",
+                "repo": "openssl"
+            }
+        ],
+        "qemu": [
+            {
+                "owner": "org",
+                "repo": "qemu"
+            }
+        ],
+        "Re2": [
+            {
+                "owner": "google",
+                "repo": "re2"
+            }
+        ],
+        "selinux": [
+            {
+                "owner": "SELinuxProject",
+                "repo": "selinux"
+            }
+        ],
+        "Servo": [
+            {
+                "owner": "servo",
+                "repo": "servo"
+            }
+        ],
+        "systemd": [
+            {
+                "owner": "systemd",
+                "repo": "systemd"
+            }
+        ]
+    }
+}
